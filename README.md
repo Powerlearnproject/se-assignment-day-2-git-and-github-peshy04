@@ -8,15 +8,21 @@ FUNDAMENTAL CONCEPTS OF VERSION CONTROL
 Version control is a system that helps track changes to files over time enabling multiple people to collaborate efficiently without overwritng each others work.It helps devlopers to:
 
 1.maintain historical versions of files 
+
 2.revert to previous states if issues arise.
+
 3.work simultaneously on different features.
+
 4.merge changes seamlessly.
 
 github is a popular version control hosting because:
 
 1.it provides cloud storage for git repositories.
+
 2.facilitates collaboration via pull requests and code review.
+
 3.integrates withb CD\CI pipelines and other development tools.
+
 4.offers robust security and project management features.
 
 version control ensures project integrity by maintaining a structured history of modifications preventing accidental data loss and making it easier to track whonmade changes and why.
@@ -53,9 +59,13 @@ A README  file is the first file users see whn they visit a repository.
  A good one should include the following:
 
  1.project name and description
+ 
  2.installation instructions
+ 
  3.usage guidelines
+ 
  4.contribution guidelines
+ 
  5.license information
 
 A good README enhances collaboration by making the project accesible to new contributers and improving documentation.
